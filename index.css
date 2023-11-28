@@ -26,14 +26,14 @@ section h2 {
 
 section p {
     line-height: 1.6;
-    color:blue;
+    color:green;
     
 }
 
 section ul {
     list-style-type: none;
     padding: 0;
-    color: blue;
+    color: green;
 }
 
 section ul li {
