@@ -48,15 +48,15 @@ if (isset($_POST['sign_up'])) {
                 <h1 class="h3 mb-3 fw-normal">Create an Account</h1>
                 <div class="form-floating">
                     <input type="text" class="form-control" id="floatingName" placeholder="Your Name">
-                    <label for="floatingName">Your Name</label>
+                    <label for="floatingName">Your Name:</label>
                 </div>
                 <div class="form-floating">
                     <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
-                    <label for="floatingInput">Email address</label>
+                    <label for="floatingInput">Email Id:</label>
                 </div>
                 <div class="form-floating">
                     <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
-                    <label for="floatingPassword">Password</label>
+                    <label for="floatingPassword">Password:</label>
                 </div>
                 <div class="form-check text-start">
                     <input class="form-check-input" type="checkbox" value="receive-emails" id="flexCheckEmails">
