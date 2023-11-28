@@ -38,7 +38,7 @@ if (isset($_POST['sign_in'])) {
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
   <link rel="stylesheet" href="mystyle.css">
-  <title>Document</title>
+  <title>Signin</title>
 </head>
 
 <body>
@@ -48,15 +48,15 @@ if (isset($_POST['sign_in'])) {
     <form method="post" class="my-5">
 
       <div class="p-3 mb-2 bg-info text-dark">
-        <h1 class="h3 mb-3 fw-normal">Please sign in</h1>
+        <h1 class="h3 mb-3 fw-normal">Sign in:</h1>
 
         <div class="form-floating">
           <input type="text" class="form-control" name="user" id="floatingInput" placeholder="name@example.com">
-          <label for="floatingInput">Email address</label>
+          <label for="floatingInput">Email Id:</label>
         </div>
         <div class="form-floating">
           <input type="password" class="form-control" name="password" id="floatingPassword" placeholder="Password">
-          <label for="floatingPassword">Password</label>
+          <label for="floatingPassword">Password:</label>
         </div>
 
         <div class="form-check text-start my-3">
