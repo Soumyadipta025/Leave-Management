@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Attractive Bootstrap Footer</title>
+    <title>Bootstrap Footer</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link href="footer.css" rel="stylesheet">
 
@@ -40,7 +40,7 @@
 
         </div>
         <div class="container mt-2">
-            <p class="mb-0">&copy; 2023 Your Company</p>
+            <p class="mb-0">&copy; 2023 your Company</p>
         </div>
     </footer>
 
