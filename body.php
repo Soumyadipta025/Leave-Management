@@ -67,14 +67,14 @@ if (isset($_POST['sumbitinfo'])) {
         <section>
 
             <h2>About Us</h2>
-            <p> leave management system</p>
+            <p> Leave Management System</p>
         </section>
         <section>
             <h2>Our Services</h2>
             <ul>
-                <li>Service 1-</li>
-                <li>Service 2-</li>
-                <li>Service 3-</li>
+                <li>Service 1:</li>
+                <li>Service 2:</li>
+                <li>Service 3:</li>
             </ul>
         </section>
 
